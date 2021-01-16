@@ -16,3 +16,5 @@ fifteen = input("Part of the body (plural): ")
 sixteen = input("Plural noun: ")
 seventeen = input("Noun: ")
 eighteen = input("Part of the body (plural): ")
+
+print(f"Our dining {one} used to be a war {two}. ")
