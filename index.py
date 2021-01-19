@@ -25,5 +25,5 @@ print(f"Mom promised to no longer get {eight} upset and shoot us dirty {nine} an
 print(f"We in turn agreed to:")
 print(f"1) Use napkins to wipe our {twelve} and not our {thirteen}.")
 print(f"2) Keep our {fourteen} off the table.")
-print(f"3) Not use our {fifteen} to pick upn {sixteen} from our plates - except for sandwiches or pieces of {seventeen}.")
+print(f"3) Not use our {fifteen} to pick up {sixteen} from our plates - except for sandwiches or pieces of {seventeen}.")
 print(f"4) Never talk with food in our {eighteen}.")
